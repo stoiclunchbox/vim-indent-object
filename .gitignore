@@ -1,2 +1,7 @@
-tags
-
+*.swp
+.*.swp
+*.swo
+.*.swo
+.env
+.DS_Store
+a.out

@@ -31,10 +31,10 @@ only in whether they include the line below the block or not.
 
         Key Mapping       Description     ~
 >
-        <count>ai         (A)n (I)ndentation level and line above.
+        <count>iI         (A)n (I)ndentation level and line above.
         <count>ii         (I)nner (I)ndentation level (no line above).
         <count>aI         (A)n (I)ndentation level and lines above/below.
-        <count>iI         (I)nner (I)ndentation level (no lines above/below).
+        <count>ai         (I)nner (I)ndentation level (no lines above/below).
 <
 
 Note that the iI mapping is mostly included simply for completeness, it is
